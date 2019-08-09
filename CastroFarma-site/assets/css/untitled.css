@@ -1,0 +1,43 @@
+hr {
+  max-width: 15rem;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: .25rem solid;
+  margin-top: -1.5rem;
+  margin-bottom: 2.5rem;
+  color: rgb(60,61,153);
+}
+
+.nav-item.mx-0.mx-lg-1 {
+  background-color: transparent;
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link {
+  background-color: transparent !important;
+}
+
+hr {
+  max-width: 15rem;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: .25rem solid;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+hr {
+  color: rgb(60,61,153);
+}
+
+hr {
+  max-width: 15rem;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: .25rem solid;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
